@@ -1,6 +1,3 @@
-#include <stdbool.h>
-#include <math.h>
-#include <float.h>
 #include "../headers/header.h"
 
 ray_t rays[NUM_RAYS];
