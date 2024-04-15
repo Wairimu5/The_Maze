@@ -1,4 +1,4 @@
-nclude "../headers/header.h"
+include "../headers/header.h"
 
 ray_t rays[NUM_RAYS];
 
